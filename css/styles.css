@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family:"yuser Magic", sans-serif;
+}
+body{
+    background: repeating-linear-gradient(#7E3f8F, 90px, #FFCF9C); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    margin: 0;
+}
